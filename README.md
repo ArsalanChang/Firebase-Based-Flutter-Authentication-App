@@ -120,6 +120,3 @@ For any queries, support, or collaboration opportunities:
 📧 Email: [arslanchang21@gmail.com]  
 🌐 GitHub: [github.com/ArslanChang](https://github.com/ArsalanChang)
 
----
-
-Would you like me to generate this as a `README.md` file that you can copy directly into your project?
