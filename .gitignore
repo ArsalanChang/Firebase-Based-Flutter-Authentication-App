@@ -18,10 +18,8 @@ migrate_working_dir/
 *.iws
 .idea/
 
-# The .vscode folder contains launch configuration and tasks you configure in
-# VS Code which you may wish to be included in version control, so this line
-# is commented out by default.
-#.vscode/
+# VSCode (Uncomment if you want to ignore local settings)
+.vscode/
 
 # Flutter/Dart/Pub related
 **/doc/api/
@@ -29,9 +27,16 @@ migrate_working_dir/
 .dart_tool/
 .flutter-plugins
 .flutter-plugins-dependencies
+.packages
 .pub-cache/
 .pub/
 /build/
+
+# Firebase config (Do NOT commit these – contains API keys)
+google-services.json
+GoogleService-Info.plist
+firebase-debug.log
+firebase-debug.*.log
 
 # Symbolication related
 app.*.symbols
@@ -39,7 +44,45 @@ app.*.symbols
 # Obfuscation related
 app.*.map.json
 
-# Android Studio will place build artifacts here
-/android/app/debug
-/android/app/profile
-/android/app/release
+# Android Studio build artifacts
+android/.gradle/
+android/app/build/
+android/local.properties
+.gradle/
+
+# iOS build artifacts
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/app.flx
+ios/Flutter/engine/
+ios/Flutter/*.xcframework
+ios/Pods/
+ios/.symlinks/
+ios/Runner.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS build artifacts
+macos/Flutter/ephemeral/
+macos/Pods/
+macos/.symlinks/
+macos/build/
+macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Windows build artifacts
+windows/Flutter/ephemeral/
+windows/build/
+windows/Flutter/generated_plugins.cmake
+
+# Linux build artifacts
+linux/Flutter/ephemeral/
+linux/build/
+
+# Web
+web/.dart_tool/
+
+# Crashlytics/Performance Monitoring
+crashlytics-build.properties
+
+# Environment files (optional, if using .env for secrets)
+.env
+.env.*
