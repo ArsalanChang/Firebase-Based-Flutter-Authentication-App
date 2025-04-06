@@ -82,26 +82,15 @@ flutter run
 5. **Delete Account** – Permanently delete user account from Firebase.
 
 ---
-
-### 📱 Screenshots
-
-#### 🔐 Sign In Screen  
-![Sign In](https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/signIn.png)
-
----
-
-#### 📝 Sign Up Screen  
-![Sign Up](https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/signUp.png)
-
----
-
-#### 🔁 Reset Password Screen  
-![Reset Password](https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/resetPassword.png)
-
----
-
-#### 🔒 Update Password Screen  
-![Update Password](https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/updatePassword.png)
+📱 Screenshots
+🔐 Sign In Screen
+<img src="https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/signIn.png" width="300"/>
+📝 Sign Up Screen
+<img src="https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/signUp.png" width="300"/>
+🔁 Reset Password Screen
+<img src="https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/resetPassword.png" width="300"/>
+🔒 Update Password Screen
+<img src="https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/updatePassword.png" width="300"/>
 
 ---
 
