@@ -30,7 +30,6 @@ class ResetPasswordScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('Update Password'),
         backgroundColor: Colors.grey[300],
         leading: IconButton(
           icon: Icon(Icons.arrow_back),
