@@ -83,7 +83,7 @@ flutter run
 
 ---
 📱 Screenshots
-<div align="center"> <table> <tr> <td align="center"> <b>🔐 Sign In</b><br> <img src="https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/signIn.png" width="200"/> </td> <td align="center"> <b>📝 Sign Up</b><br> <img src="https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/signUp.png" width="200"/> </td> </tr> <tr> <td align="center"> <b>🔁 Reset Password</b><br> <img src="https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/resetPassword.png" width="200"/> </td> <td align="center"> <b>🔒 Update Password</b><br> <img src="https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/updatePassword.png" width="200"/> </td> </tr> </table> </div>
+<div align="center"> <table> <tr> <td align="center"> <b>🔐 Sign In</b><br> <img src="https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/signIn.png" width="200"/> </td> <td align="center"> <b>📝 Sign Up</b><br> <img src="https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/signUp.png" width="200"/> </td> </tr> </table> </div>
 ---
 
 ## 🌱 Future Enhancements
