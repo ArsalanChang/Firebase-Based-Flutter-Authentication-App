@@ -83,6 +83,28 @@ flutter run
 
 ---
 
+### 📱 Screenshots
+
+#### 🔐 Sign In Screen  
+![Sign In](https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/signIn.png)
+
+---
+
+#### 📝 Sign Up Screen  
+![Sign Up](https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/signUp.png)
+
+---
+
+#### 🔁 Reset Password Screen  
+![Reset Password](https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/resetPassword.png)
+
+---
+
+#### 🔒 Update Password Screen  
+![Update Password](https://github.com/ArsalanChang/Firebase-Based-Flutter-Authentication-App/blob/2a8f6fb97074ede61a34fd2afac53de962ab7ec0/updatePassword.png)
+
+---
+
 ## 🌱 Future Enhancements
 
 - Social Login (Google, Apple, Facebook)  
