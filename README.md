@@ -43,8 +43,8 @@ Make sure you have the following installed:
 ### 📥 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/firebase-auth-flutter-app.git
-cd firebase-auth-flutter-app
+git clone https://github.com/ArslanChang/Firebase-Based-Flutter-Authentication-App.git
+cd Firebase-Based-Flutter-Authentication-App
 ```
 
 ### 📦 Install Dependencies
