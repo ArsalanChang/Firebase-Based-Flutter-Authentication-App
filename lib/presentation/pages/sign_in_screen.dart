@@ -32,40 +32,6 @@ class _SignInScreenState extends State<SignInScreen> {
     }
   }
 
-  // void signUserIn() async {
-  //   // Show loading dialog
-  //   showDialog(
-  //     context: context,
-  //     barrierDismissible: false, // Prevent user from closing manually
-  //     builder: (context) {
-  //       return const Center(
-  //         child: CircularProgressIndicator(),
-  //       );
-  //     },
-  //   );
-  //
-  //   // Try signing in
-  //   try {
-  //     await authService.value.signIn(
-  //       email: emailController.text,
-  //       password: passwordController.text,
-  //     );
-  //     // Dismiss loading dialog after success
-  //     Navigator.pop(context);
-  //     // Navigate to home screen after successful login
-  //    // Navigator.pushReplacementNamed(context, "/home"); // Change "/home" as needed
-  //   } on FirebaseAuthException catch (e) {
-  //     // Dismiss loading dialog first
-  //     Navigator.pop(context);
-  //     showErrorMessage(e.code);
-  //
-  //     // Wait a moment before showing error dialog (fix context issue)
-  //     // Future.delayed(Duration.zero, () {
-  //     //   showErrorMessage(context, e.message ?? "An error occurred");
-  //     // });
-  //   }
-  // }
-
 // Fix: Accept context explicitly
   void showErrorMessage(String message) {
     showDialog(
