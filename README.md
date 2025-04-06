@@ -117,6 +117,6 @@ This project is licensed under the **MIT License**.
 
 For any queries, support, or collaboration opportunities:  
 **Arsalan Chang**  
-📧 Email: [arslanchang21@gmail.com]  
+📧 Email: arslanchang21@gmail.com
 🌐 GitHub: [github.com/ArslanChang](https://github.com/ArsalanChang)
 
